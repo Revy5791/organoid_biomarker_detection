@@ -1,0 +1,29 @@
+LINE 641 : 2021-12-20 21:44:36,234 [INFO    ] Parsing data files for ssGSEA...........................
+LINE 157 : 2021-12-20 21:44:36,320 [INFO    ] NumExpr defaulting to 2 threads.
+LINE 138 : 2021-12-20 21:44:41,204 [INFO    ] 0034 gene_sets have been filtered out when max_size=2000 and min_size=2
+LINE 648 : 2021-12-20 21:44:41,204 [INFO    ] 0612 gene_sets used for further statistical testing.....
+LINE 652 : 2021-12-20 21:44:41,206 [INFO    ] Start to run ssGSEA...Might take a while................
+LINE 744 : 2021-12-20 21:47:06,686 [INFO    ] Calculate Enrichment Score for Sample: P10 
+LINE 744 : 2021-12-20 21:47:06,691 [INFO    ] Calculate Enrichment Score for Sample: P11 
+LINE 744 : 2021-12-20 21:47:06,695 [INFO    ] Calculate Enrichment Score for Sample: P14 
+LINE 744 : 2021-12-20 21:47:06,698 [INFO    ] Calculate Enrichment Score for Sample: P16 
+LINE 744 : 2021-12-20 21:47:06,702 [INFO    ] Calculate Enrichment Score for Sample: P17 
+LINE 744 : 2021-12-20 21:47:06,706 [INFO    ] Calculate Enrichment Score for Sample: P18 
+LINE 744 : 2021-12-20 21:47:06,709 [INFO    ] Calculate Enrichment Score for Sample: P19A 
+LINE 744 : 2021-12-20 21:47:06,713 [INFO    ] Calculate Enrichment Score for Sample: P19B 
+LINE 744 : 2021-12-20 21:47:06,716 [INFO    ] Calculate Enrichment Score for Sample: P20 
+LINE 744 : 2021-12-20 21:47:06,720 [INFO    ] Calculate Enrichment Score for Sample: P23 
+LINE 744 : 2021-12-20 21:47:06,724 [INFO    ] Calculate Enrichment Score for Sample: P24A 
+LINE 744 : 2021-12-20 21:47:06,727 [INFO    ] Calculate Enrichment Score for Sample: P24B 
+LINE 744 : 2021-12-20 21:47:06,730 [INFO    ] Calculate Enrichment Score for Sample: P25 
+LINE 744 : 2021-12-20 21:47:06,733 [INFO    ] Calculate Enrichment Score for Sample: P26 
+LINE 744 : 2021-12-20 21:47:06,737 [INFO    ] Calculate Enrichment Score for Sample: P27 
+LINE 744 : 2021-12-20 21:47:06,741 [INFO    ] Calculate Enrichment Score for Sample: P28 
+LINE 744 : 2021-12-20 21:47:06,744 [INFO    ] Calculate Enrichment Score for Sample: P31 
+LINE 744 : 2021-12-20 21:47:06,747 [INFO    ] Calculate Enrichment Score for Sample: P5 
+LINE 744 : 2021-12-20 21:47:06,751 [INFO    ] Calculate Enrichment Score for Sample: P6 
+LINE 744 : 2021-12-20 21:47:06,755 [INFO    ] Calculate Enrichment Score for Sample: P7 
+LINE 744 : 2021-12-20 21:47:06,759 [INFO    ] Calculate Enrichment Score for Sample: P8 
+LINE 744 : 2021-12-20 21:47:06,762 [INFO    ] Calculate Enrichment Score for Sample: P9 
+LINE 778 : 2021-12-20 21:47:06,772 [INFO    ] Congratulations. GSEApy runs successfully................
+
